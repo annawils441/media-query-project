@@ -22,25 +22,25 @@ body {
     background-color: #8858bdd1;
     color: white;
     margin: 0;
+    padding: 0;
 }
 
 .topnav {
-    background-color: #70489ad1;
     text-align: center;
-    margin: 20px 10px 10px;
-    padding-top: 2%;
+    margin: 0;
+    background-color: #70489ad1;
+    padding-top: 2%; 
     padding-bottom: 2%;
     display: flex;
     justify-content: space-around;
     top: 0;
     left: 0;
     right: 0;
-    width: 100%
+    width: 100%;
 }
 
 .topnav a {
     text-decoration: underline;
     color: white;
     font-size: 1.5em;
-
 }
